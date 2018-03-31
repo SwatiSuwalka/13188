@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034603736872",
+    "firebase_url": "https://attn-e877a.firebaseio.com",
+    "project_id": "attn-e877a",
+    "storage_bucket": "attn-e877a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034603736872:android:f0a5e8b6b50d4df1",
+        "android_client_info": {
+          "package_name": "com.example.android.attendanceassure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034603736872-8etb8vonc4s9ibkdkk8ilini67id83ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.attendanceassure",
+            "certificate_hash": "0a1e40e3b16a446457983750d353dee0c512c6b8"
+          }
+        },
+        {
+          "client_id": "1034603736872-n58vn1g99k6385oso804o0chpe3n9nva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmuHQrU1sbdxtMT_QJTA36krOojSsyfr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034603736872-n58vn1g99k6385oso804o0chpe3n9nva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
